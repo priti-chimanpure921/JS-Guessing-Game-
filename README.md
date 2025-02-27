@@ -2,7 +2,7 @@
 
 User enter a max number to fix range between 1 to max number.
 
-Math Object is used to generate a random number.
+<b>Math Object</b> is used to generate a random number.
 
 User keep guessing a number until it matches the random generated number.
 
